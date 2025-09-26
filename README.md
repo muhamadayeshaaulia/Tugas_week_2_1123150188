@@ -5,9 +5,10 @@
 Program ini adalah latihan fundamental menggunakan **Dart** untuk membuat **kalkulator sederhana berbasis CLI (Command Line Interface)**.  
 
 > [Cara Menjalankan](#cara-menjalankan)
-dart run bin/calculate.dart
 ---
-
+```bash
+dart run bin/calculate.dart
+```
 ## ✨ Fitur
 
 - Menampilkan menu interaktif dengan pilihan operasi:
